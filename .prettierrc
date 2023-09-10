@@ -9,6 +9,8 @@
   "importOrder": [
     "<THIRD_PARTY_MODULES>",
     "app",
+    "pages/",
+    "entities/*",
     "shared/lib",
     "shared/ui",
     "widgets",
